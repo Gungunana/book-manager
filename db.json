@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "description": "typicode"
+    }
+  ],
+  "books": [
+    {
+      "title": "Book",
+      "author": "Author",
+      "description": "Yes",
+      "id": 1
+    },
+    {
+      "title": "dfghs",
+      "author": "dfgh",
+      "description": "dfgh",
+      "id": 2
+    }
+  ]
+}
